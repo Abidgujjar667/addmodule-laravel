@@ -1,5 +1,7 @@
 Add your service provider in laravel roote folder config/app.php provider array
 For example:
+
+
 'providers' => [
 
         /*
@@ -16,7 +18,9 @@ For example:
 
 Add these lines in Laravel root folder composer
 
-"autoload": {
+
+
+  "autoload": {
         "psr-4": {
             "MyVendor\\Contactform\\": "packages/MyVendor/contactform/src"
         }
