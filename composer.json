@@ -1,0 +1,17 @@
+{
+    "name": "myvendor/contactform",
+    "description": "A contact form package for larael",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Myvendor\\Contactform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ch abid"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
