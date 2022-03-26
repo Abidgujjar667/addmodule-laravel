@@ -1,3 +1,4 @@
+An esay way to add your separate module in laravel project
 Add your service provider in laravel roote folder config/app.php provider array
 For example:
 
