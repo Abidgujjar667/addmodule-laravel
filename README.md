@@ -32,3 +32,5 @@ Add these lines in Laravel root folder composer
 		    "MyVendor\\Contactform\\": "packages/MyVendor/contactform/src"
 		}
 	    },
+
+Run command composer dump-autoload
